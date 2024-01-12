@@ -1,4 +1,3 @@
-# Sudenaz Yazıcı - 2210356008
 import os
 
 current_dir_path = os.getcwd()
